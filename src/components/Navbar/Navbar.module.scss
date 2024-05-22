@@ -1,0 +1,14 @@
+.nav {
+    grid-area: n;
+    cursor: pointer;
+    background-color: cadetblue;
+    
+  }
+
+  .item a{
+    color: white;
+  }
+
+  .item.active a {
+    color: blueviolet;
+  }

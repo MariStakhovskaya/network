@@ -9,20 +9,5 @@
   gap: 10px;
 }
 
-.header {
-  grid-area: h;
-  background-color: cadetblue;
-  & img {width: 40px;}
-}
 
-.nav {
-  grid-area: n;
-  cursor: pointer;
-  background-color: cadetblue;
-}
-
-.main {
-  grid-area: m;
-  & img {height: 300px;}
-}
 
