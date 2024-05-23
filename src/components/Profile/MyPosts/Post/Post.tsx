@@ -11,7 +11,7 @@ const Post = (props: PostType) => {
         </span>
          {props.message}
          <div>
-            {props.like}
+           likes: {props.like}
             </div>
             </div>
  
